@@ -1,14 +1,9 @@
-[![Build Status](https://secure.travis-ci.org/orika-mapper/orika.png)](http://travis-ci.org/orika-mapper/orika)
-[![Join the chat at https://gitter.im/orika-mapper](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/orika-mapper/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
-[![GitHub site](https://img.shields.io/badge/GitHub-site-blue.svg)](http://orika-mapper.github.com/orika-docs/)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/ma.glasnost.orika/orika-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/ma.glasnost.orika/orika-core)
-[![Javadocs](http://www.javadoc.io/badge/ma.glasnost.orika/orika-core.svg)](http://www.javadoc.io/doc/ma.glasnost.orika/orika-core)
-[![License: Apache 2.0](https://img.shields.io/badge/license-Apache_2.0-brightgreen.svg)](https://github.com/orika-mapper/orika/blob/master/LICENSE)
+[![Build Status](https://app.travis-ci.com/agliznetsov/orika.svg?branch=master)](https://app.travis-ci.com/github/agliznetsov/orika)
 
 Orika !
 -----------------------------------------------------------------------
 
-**NEW** We are pleased to announce the release of Orika **1.5.4** ! _This version is available on Maven central repository_ 
+**NEW** We are pleased to announce the release of Orika **1.6.0** ! _This version is available on Maven central repository_ 
 
 What?
 =====
@@ -37,13 +32,4 @@ How?
 Orika uses byte code generation to create fast mappers with minimal overhead. 
 
 Want to give Orika a try? Check out our new [User Guide](http://orika-mapper.github.com/orika-docs/) 
-
-Acknowledgements
-=================
-* YourKit supports Orika with its full-featured Java Profiler. Take a look at YourKit's leading software products: <a href="http://www.yourkit.com/java/profiler/index.jsp">YourKit Java Profiler</a>.
-<img src="https://www.yourkit.com/images/yklogo.png" title="YourKit">
-
-* <strong><a href="https://www.jetbrains.com/?from=Orika">JetBrains</a></strong> kindly provides Orika with a free open-source licence for their IntelliJ IDEA Ultimate edition. 
-<img src="https://camo.githubusercontent.com/a93f3a50613d2f7f26ca3cc70505e16921d6001b/687474703a2f2f7777772e6a6574627261696e732e636f6d2f696d672f6c6f676f732f6c6f676f5f696e74656c6c696a5f696465612e706e67">
-
 
